@@ -1,0 +1,5 @@
+Git commands
+git add . #selects the entire rootfolder
+git commit -m "" #commits the change that I made to the code and in the str you name the change
+git push -u origin master #puts the code changes into github in the master branch
+#branches are like different save files for a game

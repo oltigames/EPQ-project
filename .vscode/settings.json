@@ -1,0 +1,8 @@
+{
+  "prettier.requireConfig": false,
+  "prettier.jsxSingleQuote": true,
+  "files.autoSaveWhenNoErrors": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
